@@ -16,9 +16,20 @@
     }
   ],
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+    "com.unity.ai.navigation": "1.1.4",
+    "com.unity.ide.visualstudio": "2.0.18",
+    "com.unity.inputsystem": "1.6.3",
+    "com.unity.services.analytics": "5.0.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.xr.interaction.toolkit": "2.4.3",
+    "com.unity.xr.management": "4.4.0",
+>>>>>>> Stashed changes
     "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.klak.motion": "1.0.1",
     "jp.keijiro.metamesh": "0.0.6",
+    "org.nuget.microsoft.azure.kinect.sensor": "1.4.1",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0",
     "com.unity.modules.physics": "1.0.0",
